@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/diegoandresbarbosatrujillo/PycharmProjects/MLFlowDemo1/mlruns/328206905179409580/a14fc44a524e4d3ca33fba4aede20f2f/artifacts
+end_time: 1717191903350
+entry_point_name: ''
+experiment_id: '328206905179409580'
+lifecycle_stage: active
+run_id: a14fc44a524e4d3ca33fba4aede20f2f
+run_name: orderly-kite-746
+run_uuid: a14fc44a524e4d3ca33fba4aede20f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717191901942
+status: 3
+tags: []
+user_id: diegoandresbarbosatrujillo

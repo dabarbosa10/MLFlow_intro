@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/diegoandresbarbosatrujillo/PycharmProjects/MLFlowDemo1/mlruns/328206905179409580/437619318f9f4d95a5da7cf55a5e340d/artifacts
+end_time: 1717191685109
+entry_point_name: ''
+experiment_id: '328206905179409580'
+lifecycle_stage: active
+run_id: 437619318f9f4d95a5da7cf55a5e340d
+run_name: traveling-bass-232
+run_uuid: 437619318f9f4d95a5da7cf55a5e340d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717191683512
+status: 3
+tags: []
+user_id: diegoandresbarbosatrujillo
